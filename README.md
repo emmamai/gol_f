@@ -8,7 +8,7 @@ An implementation of Conway's Game of Life using SDL2
 
 ------------------------------------------
 
-First, take a look at the source code. Drink in its beauty.
+First, take a look at the [source code](main.c). Drink in its beauty.
 
 Then, type make, and run it.
 
