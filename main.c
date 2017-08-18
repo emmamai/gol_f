@@ -4,6 +4,7 @@
 #define W 80
 #define H 72
 #define C case
+
                     int z[W][H][2],q=0,r
                     =0,s=0;int m( int x,
                     int y){int i,j, n=0;
