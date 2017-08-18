@@ -33,19 +33,3 @@ V(BlitScaled)(rs,0,ws,0);V(UpdateWindowSurface)(w); V(Delay(
 67));while(V(PollEvent)(&e)!=0){switch(e.type){C V(MOUSEBUT\
 TONDOWN): z[B(x)/8][B(y)/8][s] = !z[B(x)/8][B(y)/8][s];break
 ;C V(KEYDOWN):r=!r; break; C V(QUIT): q=1;default:break;}}}}
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-

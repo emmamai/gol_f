@@ -4,6 +4,10 @@ An implementation of Conway's Game of Life
 
 ------------------------------------------
 
+![Game of Life](gol_f.gif)
+
+------------------------------------------
+
 First, take a look at the source code. Drink in its beauty.
 
 Then, type make, and run it.

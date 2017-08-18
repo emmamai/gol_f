@@ -1,5 +1,5 @@
 CC ?= gcc
-CFLAGS ?= -g -Og -lSDL2
+CFLAGS ?= -O2 -lSDL2
 
 gol_f: main.c
 	$(CC) $(CFLAGS) -o $@ $<
