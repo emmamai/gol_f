@@ -6,4 +6,7 @@ An implementation of Conway's Game of Life
 
 First, take a look at the source code. Drink in its beauty.
 
-Then, type make, and watch it in action.
+Then, type make, and run it.
+
+Click a cell to toggle its state.
+Press a key on your keyboard to toggle pause.
